@@ -1,6 +1,3 @@
-Certainly! Here’s a polished **README.md** file for your Analog Clock project, featuring a **Live Demo** badge that links to your deployed site.
-
-```markdown
 # Analog Clock ⏰
 
 A clean, elegant analog clock built with **HTML**, **CSS**, and **JavaScript**. Features smooth-moving hour, minute, and second hands, optimized for modern browsers.
@@ -31,12 +28,6 @@ Click to visit the live version:
 
 > Add your own screenshots or GIFs of the clock here
 
-```
-
-![Desktop View](assets/preview-desktop.png)
-![Mobile View](assets/preview-mobile.png)
-
-```
 
 **How to add visuals:**
 
@@ -48,18 +39,15 @@ Click to visit the live version:
 
 ##  Project Structure (example)
 
-```
-
 Analog-clock/
 ├─ index.html
 ├─ style.css
 ├─ script.js
 ├─ assets/
-│  ├─ preview-desktop.png
-│  └─ preview-mobile.png
+│ ├─ preview-desktop.png
+│ └─ preview-mobile.png
 └─ README.md
 
-````
 
 ---
 
@@ -78,46 +66,5 @@ python3 -m http.server 5500
 
 # Then visit:
 http://localhost:5500
-````
 
----
 
-## Customization Tips
-
-* Modify colors in `style.css` (e.g., border, hand colors).
-* Adjust clock size: change CSS dimensions (e.g., width/height of `.clock`).
-* Tweak hand width/length for different visual styles.
-
----
-
-## Deployment on GitHub Pages
-
-Already live! To redeploy fresh changes:
-
-1. Push your updates to the `main` branch.
-2. In your GitHub repo, go to **Settings → Pages → Build and deployment**
-
-   * Source: `main` branch (root folder)
-3. Your clock will be accessible again at
-   `https://nitesh-shaw-098.github.io/Analog-clock/`
-
----
-
-## Contributing
-
-Love enhancements? Feel free to fork and send a pull request. Ideas:
-
-* Add number labels (1–12) around the clock face
-* Make a digital time readout underneath
-* Animated tick marks or glowing hand effects
-
----
-
-## License
-
-This project is released under the **MIT License**.
-You’re free to use, modify, and share it—just include the license.
-
-—
-
-Thanks for visiting! If you enjoyed this project, drop a ⭐ on the repo.
