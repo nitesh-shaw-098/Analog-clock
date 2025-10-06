@@ -12,7 +12,8 @@ body {
 .wrapper {
     border-radius: 50%;
     background-color: #0f172a;
-    width: 78vh;
+    width: 90vmin;      /* responsive: smaller of viewport width/height */
+    height: 90vmin;
     position: relative;
     overflow: hidden;
     box-shadow: 0 0 20px rgba(0,0,0,0.8);
