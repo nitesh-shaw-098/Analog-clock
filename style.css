@@ -15,7 +15,6 @@ body {
     justify-content: center;
     display: flex;
     align-items: center;
-    width: 78vh;
     position: absolute;
     overflow: hidden;
     box-shadow: 0 0 20px rgba(0,0,0,0.8);
