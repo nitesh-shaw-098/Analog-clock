@@ -83,3 +83,6 @@ setInterval(
 
     initParticles();
     animateParticles();
+
+    canvas.width = wrapper.offsetWidth;
+    canvas.height = wrapper.offsetHeight;
