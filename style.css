@@ -1,10 +1,10 @@
 body {
-        font-family: Arial, Helvetica, sans-serif;
+      font-family: Arial, Helvetica, sans-serif;
       display: flex;
       justify-content: center;
       align-items: center;
       height: 100vh;
-      background: #0f172a;
+      background: #d18d2eff;
       margin: 0;
       font-family: Arial, sans-serif;
     }
@@ -12,8 +12,11 @@ body {
 .wrapper {
     border-radius: 50%;
     background-color: #0f172a;
+    justify-content: center;
+    display: flex;
+    align-items: center;
     width: 78vh;
-    position: relative;
+    position: absolute;
     overflow: hidden;
     box-shadow: 0 0 20px rgba(0,0,0,0.8);
 }
